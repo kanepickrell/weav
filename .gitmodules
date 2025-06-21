@@ -1,0 +1,3 @@
+[submodule "ai-framework"]
+	path = ai-framework
+	url = https://github.com/jhillbht/dwy-tool-calling-llm-agent.git
