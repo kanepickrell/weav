@@ -17,14 +17,15 @@ app = FastAPI(title="Weav API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:3000",  # React dev server
-        "http://localhost:5173",  # Vite dev server
-        "http://127.0.0.1:3000",
-        "http://127.0.0.1:5173",
-        "http://localhost:8080",  # Alternative ports
+        "http://localhost:3000",
+        "http://localhost:5173", 
+        "http://172.16.1.148:3000",
+        "http://172.16.1.148:5173",
+        "http://localhost:8080",      # ADD THIS LINE
+        "http://172.16.1.148:8080",   # ADD THIS LINE
     ],
     allow_credentials=True,
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 

@@ -309,6 +309,26 @@
       "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
       "context": "TechConf 2024",
       "timestamp": "2025-06-22T14:56:31.289013Z"
+    },
+    {
+      "opportunity_id": "intro_20250622161818",
+      "user_a": "user_4",
+      "user_b": "user_1",
+      "match_score": 50.0,
+      "message_to_a": "Hi! I noticed you're both Both in expo_hall with 14 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in expo_hall with 14 minutes available. Meet user_4, a baker with relevant experience. Great opportunity to connect!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T16:18:18.113508Z"
+    },
+    {
+      "opportunity_id": "intro_20250622162018",
+      "user_a": "user_4",
+      "user_b": "user_2",
+      "match_score": 36.0,
+      "message_to_a": "Hi! I noticed you're both Both in coffee_area with 16 minutes available. Meet user_2, a developer with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in coffee_area with 16 minutes available. Meet user_4, a baker with relevant experience. Great opportunity to connect!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T16:20:18.288265Z"
     }
   ],
   "users": {
@@ -321,15 +341,19 @@
       "successful_meetings": 0
     },
     "user_1": {
-      "total_introductions": 29,
+      "total_introductions": 30,
       "successful_meetings": 0
     },
     "user_2": {
-      "total_introductions": 26,
+      "total_introductions": 27,
       "successful_meetings": 0
     },
     "user_3": {
       "total_introductions": 5,
+      "successful_meetings": 0
+    },
+    "user_4": {
+      "total_introductions": 2,
       "successful_meetings": 0
     }
   },

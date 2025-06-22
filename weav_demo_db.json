@@ -29,6 +29,46 @@
       "interests": [],
       "intent": "Networking",
       "created_at": "2025-06-22T14:54:12.481711"
+    },
+    "user_4": {
+      "name": "Kane Pickrel",
+      "title": "baker",
+      "company": "walmart",
+      "bio": "",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T16:16:17.364007"
+    },
+    "user_5": {
+      "name": "Kane Pickrel",
+      "title": "IT",
+      "company": "REI",
+      "bio": "interested in environment awarness",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T16:33:25.422466"
+    },
+    "user_6": {
+      "name": "Kane Pickrel",
+      "title": "IT",
+      "company": "REI",
+      "bio": "interested in environment awarness",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T16:33:25.439968"
+    },
+    "user_7": {
+      "name": "henry",
+      "title": "tree researcher",
+      "company": "REI",
+      "bio": "interested in safe environments",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T16:33:58.795151"
     }
   },
   "introductions": [
@@ -69,6 +109,30 @@
       "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
       "timestamp": "2025-06-22T14:56:31.310016",
       "context": "TechConf 2024"
+    },
+    {
+      "id": "intro_20250622161818",
+      "user_a": "user_4",
+      "user_b": "user_1",
+      "match_score": 50.0,
+      "message_to_a": "Hi! I noticed you're both Both in expo_hall with 14 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in expo_hall with 14 minutes available. Meet user_4, a baker with relevant experience. Great opportunity to connect!",
+      "timestamp": "2025-06-22T16:18:18.174467",
+      "context": "TechConf 2024",
+      "response": {
+        "action": "accept",
+        "timestamp": "2025-06-22T16:18:25.285886"
+      }
+    },
+    {
+      "id": "intro_20250622162018",
+      "user_a": "user_4",
+      "user_b": "user_2",
+      "match_score": 36.0,
+      "message_to_a": "Hi! I noticed you're both Both in coffee_area with 16 minutes available. Meet user_2, a developer with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in coffee_area with 16 minutes available. Meet user_4, a baker with relevant experience. Great opportunity to connect!",
+      "timestamp": "2025-06-22T16:20:18.302833",
+      "context": "TechConf 2024"
     }
   ],
   "user_contexts": {
@@ -101,7 +165,7 @@
       },
       "interaction_history": {
         "last_intro": 0,
-        "total_intros_today": 1,
+        "total_intros_today": 2,
         "energy_level": "high"
       },
       "last_opportunity_check": "2025-06-22T14:49:51.540294"
@@ -135,7 +199,7 @@
       },
       "interaction_history": {
         "last_intro": 0,
-        "total_intros_today": 1,
+        "total_intros_today": 2,
         "energy_level": "high"
       },
       "last_opportunity_check": "2025-06-22T14:54:01.578425"
@@ -173,6 +237,142 @@
         "energy_level": "high"
       },
       "last_opportunity_check": "2025-06-22T14:54:12.481711"
+    },
+    "user_4": {
+      "profile": {
+        "name": "Kane Pickrel",
+        "title": "baker",
+        "company": "walmart",
+        "bio": "",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 30.26739480659512,
+        "lng": -97.74268971958018,
+        "zone": "main_hall"
+      },
+      "phone_behavior": {
+        "last_app": "weav",
+        "screen_time_minutes": 9,
+        "app_switches_last_hour": 4,
+        "typing_active": false,
+        "last_action": "just_closed_slack"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "AI Panel Discussion",
+        "time_until_next": 31
+      },
+      "interaction_history": {
+        "last_intro": 0,
+        "total_intros_today": 2,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T16:33:25.395557"
+    },
+    "user_5": {
+      "profile": {
+        "name": "Kane Pickrel",
+        "title": "IT",
+        "company": "REI",
+        "bio": "interested in environment awarness",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "zone": "unknown"
+      },
+      "phone_behavior": {
+        "last_app": "weav",
+        "screen_time_minutes": 0,
+        "app_switches_last_hour": 0,
+        "typing_active": false,
+        "last_action": "app_opened"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "unknown",
+        "time_until_next": 30
+      },
+      "interaction_history": {
+        "last_intro": 120,
+        "total_intros_today": 0,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T16:33:25.422466"
+    },
+    "user_6": {
+      "profile": {
+        "name": "Kane Pickrel",
+        "title": "IT",
+        "company": "REI",
+        "bio": "interested in environment awarness",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 30.267275221263464,
+        "lng": -97.7428019042443,
+        "zone": "coffee_area"
+      },
+      "phone_behavior": {
+        "last_app": "instagram",
+        "screen_time_minutes": 6,
+        "app_switches_last_hour": 4,
+        "typing_active": false,
+        "last_action": "browsing_mode"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "AI Panel Discussion",
+        "time_until_next": 23
+      },
+      "interaction_history": {
+        "last_intro": 120,
+        "total_intros_today": 0,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T16:33:25.439968"
+    },
+    "user_7": {
+      "profile": {
+        "name": "henry",
+        "title": "tree researcher",
+        "company": "REI",
+        "bio": "interested in safe environments",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 30.2669194556404,
+        "lng": -97.74306789149959,
+        "zone": "coffee_area"
+      },
+      "phone_behavior": {
+        "last_app": "twitter",
+        "screen_time_minutes": 9,
+        "app_switches_last_hour": 4,
+        "typing_active": false,
+        "last_action": "just_closed_slack"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "AI Panel Discussion",
+        "time_until_next": 15
+      },
+      "interaction_history": {
+        "last_intro": 120,
+        "total_intros_today": 0,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T16:33:58.795151"
     }
   },
   "introduction_history": {
@@ -181,6 +381,10 @@
     "user_3:user_1": "2025-06-22T14:56:13.309467",
     "user_1:user_3": "2025-06-22T14:56:13.309467",
     "user_2:user_3": "2025-06-22T14:56:31.310016",
-    "user_3:user_2": "2025-06-22T14:56:31.310016"
+    "user_3:user_2": "2025-06-22T14:56:31.310016",
+    "user_4:user_1": "2025-06-22T16:18:18.174467",
+    "user_1:user_4": "2025-06-22T16:18:18.174467",
+    "user_4:user_2": "2025-06-22T16:20:18.302833",
+    "user_2:user_4": "2025-06-22T16:20:18.302833"
   }
 }
