@@ -1,0 +1,77 @@
+ 	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional compatibility: 90/100 Both individuals are in the same role and ... projects that combine their shared profession with Person A's interest in tech.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional compatibility: 90/100 Both Person A and B are in the same role a...personal interests to further enhance the potential for a successful connection.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...rojects. The conversation starters can help them initiate a meaningful dialogue.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...rojects. The conversation starters can help them initiate a meaningful dialogue.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...rojects. The conversation starters can help them initiate a meaningful dialogue.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional compatibility: 90/100 Both individuals are in the same role and ... projects that combine their shared profession with Person A's interest in tech.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional compatibility: 90/100 Both individuals are in the same role and ... projects that combine their shared profession with Person A's interest in tech.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional compatibility: 90/100 Both individuals are in the same role and ... projects that combine their shared profession with Person A's interest in tech.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	InterestMatcherAgent		None			Analyze compatibility between these two professionals for networking: Person A: ...opics 5. Overall match recommendation Provide specific reasoning for the scores.
+ 	InterestMatcherAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	InterestMatcherAgent	Entity.AGENT	Entity.USER			None			
+*	InterestMatcherAgent	Entity.LLM	Entity.LLM			None			1. Professional Compatibility: 90/100 Both Person A and B are in the same role a...d profession and Person B's potential to introduce Person A to new technologies.

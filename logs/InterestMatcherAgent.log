@@ -1,0 +1,1628 @@
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: healthcare
+        - Interests: [1m[[0m[32m'outdoor'[0m, [32m'tech'[0m, [32m'travel'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'healthtech'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: Founder
+        - Industry: other
+        - Interests: [1m[[0m[32m'family'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'healthtech'[0m[1m][0m
+        - Goals: [1m[[0m[32m'fundraising'[0m, [32m'partnerships'[0m, [32m'talent'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m70[0m/[1;36m100[0m
+   - Both Person A and B have a common interest in healthtech, which suggests a good degree of professional overlap. As a Product Manager, Person A could provide valuable insights on product 
+development and user research, which could be beneficial for Person B's startup. However, the industry of Person B is not specified, which makes it a bit challenging to assess the full extent of their
+professional compatibility.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m30[0m/[1;36m100[0m
+   - There seems to be a low alignment in personal interests. Person A is interested in outdoor activities, tech, and travel, while Person B has listed family as their only interest. There's no clear 
+overlap in their personal interests.
+
+[1;36m3[0m. Mutual Value Potential: Medium
+   - Person A could potentially provide insights on product development, user research, and industry trends, which could be valuable for Person B's startup. On the other hand, Person B, being a 
+founder, could share experiences on fundraising, partnerships, and talent acquisition, which could be beneficial for Person A's role as a Product Manager. However, the unspecified industry of Person 
+B's startup may limit the potential value exchange.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - They could start a conversation around healthtech, discussing the latest trends and how AI/ML is influencing the industry.
+   - Person A could ask about the challenges Person B has faced in fundraising and partnerships, and share their own experiences in product management.
+   - Person B could inquire about Person A's user research strategies and how they incorporate consumer insights into product development.
+
+[1;36m5[0m. Overall Match Recommendation: Consider with Caution
+   - While there is some professional overlap and potential for mutual value exchange, the lack of personal interest alignment and the unspecified industry of Person B's startup could limit the depth 
+of their connection. It's recommended to proceed with this match, but with a bit of caution.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: healthcare
+        - Interests: [1m[[0m[32m'outdoor'[0m, [32m'tech'[0m, [32m'travel'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'healthtech'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: Founder
+        - Industry: other
+        - Interests: [1m[[0m[32m'family'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'healthtech'[0m[1m][0m
+        - Goals: [1m[[0m[32m'fundraising'[0m, [32m'partnerships'[0m, [32m'talent'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m70[0m/[1;36m100[0m
+   - Both Person A and Person B are involved in the healthtech sector, which provides a common ground for professional discussions. However, their roles are quite different, with Person A being a 
+Product Manager and Person B being a Founder. This difference in roles could lead to different perspectives and experiences, which could be beneficial for mutual learning but might also limit the 
+depth of their professional discussions.
+   
+[1;36m2[0m. Personal Interest Alignment: [1;36m30[0m/[1;36m100[0m
+   - There seems to be limited overlap in their personal interests. Person A is interested in outdoor activities, tech, and travel, while Person B is interested in family. These interests do not align
+well, which might limit their personal connections.
+
+[1;36m3[0m. Mutual Value Potential:
+   - There is potential for mutual value in this match. Person A could provide insights on product management, user research, and industry trends, which could be valuable for Person B as a founder. On
+the other hand, Person B could provide insights on fundraising, partnerships, and talent acquisition, which could be beneficial for Person A in their role as a product manager.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - They could start a conversation around the healthtech sector, discussing the latest trends and challenges. 
+   - Person A could ask Person B about their experiences with fundraising and partnerships, and how they have managed talent in their company.
+   - Person B could ask Person A about their strategies for user research and how they keep up with industry trends.
+
+[1;36m5[0m. Overall Match Recommendation: 
+   - I would recommend this match with some reservations. While there is potential for mutual professional value, their different roles and lack of shared personal interests might limit the depth of 
+their connection. However, if they are both open to learning from different perspectives and experiences, this could be a beneficial match.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: healthcare
+        - Interests: [1m[[0m[32m'outdoor'[0m, [32m'tech'[0m, [32m'travel'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'healthtech'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: Founder
+        - Industry: technology
+        - Interests: [1m[[0m[32m'family'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'healthtech'[0m[1m][0m
+        - Goals: [1m[[0m[32m'fundraising'[0m, [32m'partnerships'[0m, [32m'talent'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m85[0m/[1;36m100[0m
+   Both Person A and Person B are in roles that require a deep understanding of technology and its applications, especially in the healthcare sector. They share key topics of interest in AI/ML and 
+healthtech. Person A's role as a Product Manager in the healthcare industry could provide valuable insights to Person B, who is a founder in the technology industry. Person B's experience in 
+fundraising, partnerships, and talent acquisition could be beneficial to Person A in terms of understanding the broader industry trends and the business side of product management.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m40[0m/[1;36m100[0m
+   There is not a significant overlap in personal interests. Person A is interested in outdoor activities, tech, and travel, while Person B's interest is family. However, the shared interest in tech 
+could provide some common ground for personal conversations.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Person A could benefit from Person B's experience in fundraising, partnerships, and talent acquisition, which could provide insights into industry trends and the business side of product 
+management. On the other hand, Person B could gain from Person A's insights on product management, user research, and industry-specific knowledge in healthcare. This exchange of knowledge could 
+potentially lead to collaborations or partnerships in the future.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - AI/ML applications in healthcare
+   - The intersection of technology and healthcare
+   - Challenges and opportunities in the healthtech industry
+   - The role of a Product Manager in a healthcare tech company
+   - The journey of founding a tech company and lessons learned
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of personal interest alignment, the high professional compatibility and mutual value potential make this a strong match for professional networking. Both parties could learn a lot 
+from each other's experiences and perspectives, which could lead to beneficial collaborations or partnerships.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m85[0m/[1;36m100[0m
+   Both individuals are in roles that frequently collaborate in the tech industry. An AI Engineer [1m([0mPerson A[1m)[0m often works with Product Managers [1m([0mPerson B[1m)[0m to implement AI/ML solutions into products. 
+Although Person B is not in the technology industry, their role as a Product Manager is universal across industries, and their interest in AI/ML indicates a potential overlap in professional 
+interests.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has not listed any specific interests, making it difficult to assess personal alignment. However, Person B has expressed an interest in [32m'tech'[0m, which could potentially align with Person 
+A's role as an AI Engineer. The shared key topic of [32m'ai_ml'[0m also suggests a common professional interest.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Person A's goals of [32m'technical_learning'[0m, [32m'collaboration'[0m, and [32m'career_growth'[0m can be complemented by Person B's experience in [32m'product_insights'[0m, [32m'user_research'[0m, and [32m'industry_trends'[0m. Person B 
+can provide valuable insights into how AI/ML can be applied to product development and user needs, which could help Person A in their technical learning and career growth. Similarly, Person A can 
+provide technical knowledge to Person B, helping them understand the possibilities and limitations of AI/ML in product development.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - The application of AI/ML in different industries
+   - The challenges of integrating AI/ML into product development
+   - The future trends of AI/ML in tech and other industries
+   - How user research can inform AI/ML development
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of personal interest information from Person A, the professional overlap and potential for mutual value exchange make this a strong match. Both individuals can learn from each 
+other and potentially collaborate on projects involving AI/ML.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+
+Person A is a Product Manager with a focus on AI/ML, while Person B is an AI Engineer. Their roles are highly complementary in a tech product development context. A Product Manager often needs to work
+closely with engineers to understand technical constraints and possibilities, while an AI Engineer can benefit from insights into product strategy and user research. They also share a key topic of 
+interest in AI/ML, which further enhances their professional compatibility.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+
+Person A has expressed an interest in tech, which is the industry in which Person B works. However, Person B has not listed any specific interests. Therefore, while there is some alignment based on 
+Person A's interest in tech, it's difficult to assess full alignment without more information from Person B.
+
+[1;36m3[0m. Mutual Value Potential: High
+
+Both professionals can provide significant value to each other. Person A can offer insights into product management, user research, and industry trends, which could be beneficial for Person B's career
+growth and technical learning. On the other hand, Person B can provide technical knowledge and collaboration opportunities in AI/ML, which aligns with Person A's goal of gaining product insights.
+
+[1;36m4[0m. Conversation Starter Topics:
+
+- AI/ML trends and their impact on product development
+- Challenges and opportunities in implementing AI/ML in products
+- Sharing insights about user needs and technical constraints in product development
+- Career growth and learning opportunities in the tech industry
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+
+Despite the lack of detailed personal interests from Person B, the strong professional compatibility and high potential for mutual value make this a strong match. Both professionals can learn a lot 
+from each other and potentially collaborate on shared goals and interests.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+
+Person A is a Product Manager with a focus on AI/ML, while Person B is an AI Engineer. Their roles are highly complementary in a tech product development context. A Product Manager often needs to work
+closely with engineers to understand technical constraints and possibilities, while an AI Engineer can benefit from insights into product strategy and user research. They also share a key topic of 
+interest in AI/ML, which further enhances their professional compatibility.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+
+Person A has expressed an interest in tech, which is the industry in which Person B works. However, Person B has not listed any specific interests. Therefore, while there is some alignment based on 
+Person A's interest in tech, it's difficult to assess full alignment without more information from Person B.
+
+[1;36m3[0m. Mutual Value Potential: High
+
+Both professionals can provide significant value to each other. Person A can offer insights into product management, user research, and industry trends, which could be beneficial for Person B's career
+growth and technical learning. On the other hand, Person B can provide technical knowledge and collaboration opportunities in AI/ML, which aligns with Person A's goal of gaining product insights.
+
+[1;36m4[0m. Conversation Starter Topics:
+
+- AI/ML trends and their impact on product development
+- Challenges and opportunities in implementing AI/ML in products
+- Sharing insights about user needs and technical constraints in product development
+- Career growth and learning opportunities in the tech industry
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+
+Despite the lack of detailed personal interests from Person B, the strong professional compatibility and high potential for mutual value make this a strong match. Both professionals can learn a lot 
+from each other and potentially collaborate on shared goals and interests.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+
+Person A is a Product Manager with a focus on AI/ML, while Person B is an AI Engineer. Their roles are highly complementary in a tech product development context. A Product Manager often needs to work
+closely with engineers to understand technical constraints and possibilities, while an AI Engineer can benefit from insights into product strategy and user research. They also share a key topic of 
+interest in AI/ML, which further enhances their professional compatibility.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+
+Person A has expressed an interest in tech, which is the industry in which Person B works. However, Person B has not listed any specific interests. Therefore, while there is some alignment based on 
+Person A's interest in tech, it's difficult to assess full alignment without more information from Person B.
+
+[1;36m3[0m. Mutual Value Potential: High
+
+Both professionals can provide significant value to each other. Person A can offer insights into product management, user research, and industry trends, which could be beneficial for Person B's career
+growth and technical learning. On the other hand, Person B can provide technical knowledge and collaboration opportunities in AI/ML, which aligns with Person A's goal of gaining product insights.
+
+[1;36m4[0m. Conversation Starter Topics:
+
+- AI/ML trends and their impact on product development
+- Challenges and opportunities in implementing AI/ML in products
+- Sharing insights about user needs and technical constraints in product development
+- Career growth and learning opportunities in the tech industry
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+
+Despite the lack of detailed personal interests from Person B, the strong professional compatibility and high potential for mutual value make this a strong match. Both professionals can learn a lot 
+from each other and potentially collaborate on shared goals and interests.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m85[0m/[1;36m100[0m
+   Both individuals are in roles that frequently collaborate in the tech industry. An AI Engineer [1m([0mPerson A[1m)[0m often works with Product Managers [1m([0mPerson B[1m)[0m to implement AI/ML solutions into products. 
+Although Person B is not in the technology industry, their role as a Product Manager is universal across industries, and their interest in AI/ML indicates a potential overlap in professional 
+interests.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has not listed any specific interests, making it difficult to assess personal alignment. However, Person B has expressed an interest in [32m'tech'[0m, which could potentially align with Person 
+A's role as an AI Engineer. The shared key topic of [32m'ai_ml'[0m also suggests a common professional interest.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Person A's goals of [32m'technical_learning'[0m, [32m'collaboration'[0m, and [32m'career_growth'[0m can be complemented by Person B's experience in [32m'product_insights'[0m, [32m'user_research'[0m, and [32m'industry_trends'[0m. Person B 
+can provide valuable insights into how AI/ML can be applied to product development and user needs, which could help Person A in their technical learning and career growth. Similarly, Person A can 
+provide technical knowledge to Person B, helping them understand the possibilities and limitations of AI/ML in product development.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - The application of AI/ML in different industries
+   - The challenges of integrating AI/ML into product development
+   - The future trends of AI/ML in tech and other industries
+   - How user research can inform AI/ML development
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of personal interest information from Person A, the professional overlap and potential for mutual value exchange make this a strong match. Both individuals can learn from each 
+other and potentially collaborate on projects involving AI/ML.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+
+Person A is a Product Manager with a focus on AI/ML, while Person B is an AI Engineer. Their roles are highly complementary in a tech product development context. A Product Manager often needs to work
+closely with engineers to understand technical constraints and possibilities, while an AI Engineer can benefit from insights into product strategy and user research. They also share a key topic of 
+interest in AI/ML, which further enhances their professional compatibility.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+
+Person A has expressed an interest in tech, which is the industry in which Person B works. However, Person B has not listed any specific interests. Therefore, while there is some alignment based on 
+Person A's interest in tech, it's difficult to assess full alignment without more information from Person B.
+
+[1;36m3[0m. Mutual Value Potential: High
+
+Both professionals can provide significant value to each other. Person A can offer insights into product management, user research, and industry trends, which could be beneficial for Person B's career
+growth and technical learning. On the other hand, Person B can provide technical knowledge and collaboration opportunities in AI/ML, which aligns with Person A's goal of gaining product insights.
+
+[1;36m4[0m. Conversation Starter Topics:
+
+- AI/ML trends and their impact on product development
+- Challenges and opportunities in implementing AI/ML in products
+- Sharing insights about user needs and technical constraints in product development
+- Career growth and learning opportunities in the tech industry
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+
+Despite the lack of detailed personal interests from Person B, the strong professional compatibility and high potential for mutual value make this a strong match. Both professionals can learn a lot 
+from each other and potentially collaborate on shared goals and interests.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Software Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and Person B are in the technology industry, with Person A being a Software Engineer and Person B being an AI Engineer. Their roles are highly complementary as software engineering is
+a key component of AI engineering. They both have a key topic of interest in [32m'ai_ml'[0m which suggests a strong overlap in their professional interests and knowledge. Their goals also align perfectly, 
+both seeking technical learning, collaboration, and career growth.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has expressed an interest in [32m'tech'[0m, which is a broad area that likely includes AI, given their key topic of [32m'ai_ml'[0m. Person B, however, has not listed any specific interests. Given the 
+overlap in their professional roles and key topics, it's reasonable to assume they would have some shared personal interests in technology, but without more information from Person B, this score is 
+slightly lower.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are looking for collaboration and technical learning. They can learn from each other's experiences and knowledge, with Person A potentially gaining more insight into AI and Person 
+B benefiting from the software engineering perspective. Their shared goal of career growth also suggests they could support each other in professional development opportunities.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - They could discuss the latest trends and developments in AI and machine learning.
+   - They could share their experiences and challenges in their respective roles.
+   - They could explore potential areas of collaboration, perhaps on a technical project.
+   - They could discuss their career growth plans and how they're working towards them.
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of explicitly stated personal interests from Person B, their professional alignment, shared goals, and the potential for mutual value make this a strong match. They have plenty to 
+discuss and learn from each other, and potential for fruitful collaboration.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Software Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and Person B are in the technology industry, with Person A being a Software Engineer and Person B being an AI Engineer. Their roles are highly complementary as software engineering is
+a key component of AI engineering. They both have a key topic of interest in [32m'ai_ml'[0m which suggests a strong overlap in their professional interests and knowledge. Their goals also align perfectly, 
+both seeking technical learning, collaboration, and career growth.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has expressed an interest in [32m'tech'[0m, which is a broad area that likely includes AI, given their key topic of [32m'ai_ml'[0m. Person B, however, has not listed any specific interests. Given the 
+overlap in their professional roles and key topics, it's reasonable to assume they would have some shared personal interests in technology, but without more information from Person B, this score is 
+slightly lower.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are looking for collaboration and technical learning. They can learn from each other's experiences and knowledge, with Person A potentially gaining more insight into AI and Person 
+B benefiting from the software engineering perspective. Their shared goal of career growth also suggests they could support each other in professional development opportunities.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - They could discuss the latest trends and developments in AI and machine learning.
+   - They could share their experiences and challenges in their respective roles.
+   - They could explore potential areas of collaboration, perhaps on a technical project.
+   - They could discuss their career growth plans and how they're working towards them.
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of explicitly stated personal interests from Person B, their professional alignment, shared goals, and the potential for mutual value make this a strong match. They have plenty to 
+discuss and learn from each other, and potential for fruitful collaboration.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: Software Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and Person B are in the technology industry, with Person A being a Software Engineer and Person B being an AI Engineer. Their roles are highly complementary as software engineering is
+a key component of AI engineering. They both have a key topic of interest in [32m'ai_ml'[0m which suggests a strong overlap in their professional interests and knowledge. Their goals also align perfectly, 
+both seeking technical learning, collaboration, and career growth.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has expressed an interest in [32m'tech'[0m, which is a broad area that likely includes AI, given their key topic of [32m'ai_ml'[0m. Person B, however, has not listed any specific interests. Given the 
+overlap in their professional roles and key topics, it's reasonable to assume they would have some shared personal interests in technology, but without more information from Person B, this score is 
+slightly lower.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are looking for collaboration and technical learning. They can learn from each other's experiences and knowledge, with Person A potentially gaining more insight into AI and Person 
+B benefiting from the software engineering perspective. Their shared goal of career growth also suggests they could support each other in professional development opportunities.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - They could discuss the latest trends and developments in AI and machine learning.
+   - They could share their experiences and challenges in their respective roles.
+   - They could explore potential areas of collaboration, perhaps on a technical project.
+   - They could discuss their career growth plans and how they're working towards them.
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of explicitly stated personal interests from Person B, their professional alignment, shared goals, and the potential for mutual value make this a strong match. They have plenty to 
+discuss and learn from each other, and potential for fruitful collaboration.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: AI Engineer
+        - Industry: technology
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'technical_learning'[0m, [32m'collaboration'[0m, [32m'career_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: Product Manager
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m[1m][0m
+        - Goals: [1m[[0m[32m'product_insights'[0m, [32m'user_research'[0m, [32m'industry_trends'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m85[0m/[1;36m100[0m
+   Both individuals are in roles that frequently collaborate in the tech industry. An AI Engineer [1m([0mPerson A[1m)[0m often works with Product Managers [1m([0mPerson B[1m)[0m to implement AI/ML solutions into products. 
+Although Person B is not in the technology industry, their role as a Product Manager is universal across industries, and their interest in AI/ML indicates a potential overlap in professional 
+interests.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m70[0m/[1;36m100[0m
+   Person A has not listed any specific interests, making it difficult to assess personal alignment. However, Person B has expressed an interest in [32m'tech'[0m, which could potentially align with Person 
+A's role as an AI Engineer. The shared key topic of [32m'ai_ml'[0m also suggests a common professional interest.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Person A's goals of [32m'technical_learning'[0m, [32m'collaboration'[0m, and [32m'career_growth'[0m can be complemented by Person B's experience in [32m'product_insights'[0m, [32m'user_research'[0m, and [32m'industry_trends'[0m. Person B 
+can provide valuable insights into how AI/ML can be applied to product development and user needs, which could help Person A in their technical learning and career growth. Similarly, Person A can 
+provide technical knowledge to Person B, helping them understand the possibilities and limitations of AI/ML in product development.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - The application of AI/ML in different industries
+   - The challenges of integrating AI/ML into product development
+   - The future trends of AI/ML in tech and other industries
+   - How user research can inform AI/ML development
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of personal interest information from Person A, the professional overlap and potential for mutual value exchange make this a strong match. Both individuals can learn from each 
+other and potentially collaborate on projects involving AI/ML.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional compatibility: [1;36m90[0m/[1;36m100[0m
+   Both individuals are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. However, Person A has an interest in tech and AI/ML, which is not reflected in Person B's profile. This slight difference in professional interests reduces the score slightly.
+
+[1;36m2[0m. Personal interest alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has expressed an interest in tech, while Person B has not listed any personal interests. This lack of shared personal interests reduces the score in this category.
+
+[1;36m3[0m. Mutual value potential: High
+   Despite the difference in personal interests, the mutual value potential is high. Both individuals have the same professional goals of growth, indicating they can support each other in their career
+progression. Person A's interest in tech and AI/ML could also potentially bring innovative ideas to Person B's baking practices, adding value to their professional development.
+
+[1;36m4[0m. Conversation starter topics:
+   - Sharing experiences and challenges in the baking industry
+   - Discussing consumer trends in the baking industry
+   - Exploring how tech, AI, and ML could be integrated into baking practices
+   - Discussing strategies for professional growth in the baking industry
+
+[1;36m5[0m. Overall match recommendation: Yes
+   Despite the difference in personal interests, the high professional compatibility and mutual value potential make this a good match for professional networking. They can learn a lot from each other
+and potentially collaborate on projects that combine their shared profession with Person A's interest in tech.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which gives them a high degree of professional compatibility. They can share experiences, challenges, and strategies related to their 
+profession. However, Person B seems to have a more tech-oriented approach, as indicated by their interest in [32m'ai_ml'[0m, which may not completely align with Person A's professional focus.
+
+[1;36m2[0m. Personal interest alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not specified any personal interests, making it difficult to assess alignment. Person B, on the other hand, has expressed an interest in [32m'tech'[0m. While this doesn't directly conflict 
+with any interests of Person A, there's no clear overlap either.
+
+[1;36m3[0m. Mutual value potential: High
+   Both individuals have [32m'professional growth'[0m as a goal, which suggests they are both open to learning and improving in their profession. Person B's interest in [32m'tech'[0m and [32m'ai_ml'[0m could potentially 
+bring new perspectives and ideas to Person A, especially if they are open to incorporating technology into their baking business. Similarly, Person A's focus on [32m'consumer'[0m topics could provide 
+valuable insights to Person B about customer preferences and behaviors.
+
+[1;36m4[0m. Conversation starter topics:
+   - Discussing challenges and successes in their roles as bakers
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology [1m([0mspecifically AI and ML[1m)[0m could be applied in the baking industry
+   - Discussing consumer behavior and preferences in the baking industry
+
+[1;36m5[0m. Overall match recommendation: Yes
+   Despite the lack of personal interest alignment, the high professional compatibility and potential for mutual value make this a good match. Both individuals could learn from each other and help 
+each other achieve their professional growth goals. However, it would be beneficial if Person A could provide more information about their personal interests to further enhance the potential for a 
+successful connection.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. They also share a key topic of interest in [32m'consumer'[0m, suggesting they both have a focus on understanding and catering to consumer needs.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   There is not much information about Person A's personal interests, making it difficult to assess alignment. Person B has an interest in [32m'tech'[0m, but it's unclear if Person A shares this interest. 
+Therefore, the score is average.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals have a goal of [32m'professional growth'[0m. They can provide mutual value by sharing industry insights, discussing strategies for professional development, and potentially collaborating 
+on projects. Person B's interest in [32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A, especially if they are interested in incorporating more technology into their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing consumer trends in the baking industry
+   - Sharing experiences and challenges in their roles as bakers
+   - Exploring how technology can be integrated into their work
+   - Discussing their goals for professional growth and strategies to achieve them
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of information about Person A's personal interests, the strong professional compatibility and potential for mutual value make this a strong match. They can learn a lot from each 
+other and potentially collaborate on projects. The conversation starters can help them initiate a meaningful dialogue.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. They also share a key topic of interest in [32m'consumer'[0m, suggesting they both have a focus on understanding and catering to consumer needs.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   There is not much information about Person A's personal interests, making it difficult to assess alignment. Person B has an interest in [32m'tech'[0m, but it's unclear if Person A shares this interest. 
+Therefore, the score is average.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals have a goal of [32m'professional growth'[0m. They can provide mutual value by sharing industry insights, discussing strategies for professional development, and potentially collaborating 
+on projects. Person B's interest in [32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A, especially if they are interested in incorporating more technology into their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing consumer trends in the baking industry
+   - Sharing experiences and challenges in their roles as bakers
+   - Exploring how technology can be integrated into their work
+   - Discussing their goals for professional growth and strategies to achieve them
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of information about Person A's personal interests, the strong professional compatibility and potential for mutual value make this a strong match. They can learn a lot from each 
+other and potentially collaborate on projects. The conversation starters can help them initiate a meaningful dialogue.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. They also share a key topic of interest in [32m'consumer'[0m, suggesting they both have a focus on understanding and catering to consumer needs.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   There is not much information about Person A's personal interests, making it difficult to assess alignment. Person B has an interest in [32m'tech'[0m, but it's unclear if Person A shares this interest. 
+Therefore, the score is average.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals have a goal of [32m'professional growth'[0m. They can provide mutual value by sharing industry insights, discussing strategies for professional development, and potentially collaborating 
+on projects. Person B's interest in [32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A, especially if they are interested in incorporating more technology into their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing consumer trends in the baking industry
+   - Sharing experiences and challenges in their roles as bakers
+   - Exploring how technology can be integrated into their work
+   - Discussing their goals for professional growth and strategies to achieve them
+
+[1;36m5[0m. Overall Match Recommendation: Strong
+   Despite the lack of information about Person A's personal interests, the strong professional compatibility and potential for mutual value make this a strong match. They can learn a lot from each 
+other and potentially collaborate on projects. The conversation starters can help them initiate a meaningful dialogue.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional compatibility: [1;36m90[0m/[1;36m100[0m
+   Both individuals are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. However, Person A has an interest in tech and AI/ML, which is not reflected in Person B's profile. This slight difference in professional interests reduces the score slightly.
+
+[1;36m2[0m. Personal interest alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has expressed an interest in tech, while Person B has not listed any personal interests. This lack of shared personal interests reduces the score in this category.
+
+[1;36m3[0m. Mutual value potential: High
+   Despite the difference in personal interests, the mutual value potential is high. Both individuals have the same professional goals of growth, indicating they can support each other in their career
+progression. Person A's interest in tech and AI/ML could also potentially bring innovative ideas to Person B's baking practices, adding value to their professional development.
+
+[1;36m4[0m. Conversation starter topics:
+   - Sharing experiences and challenges in the baking industry
+   - Discussing consumer trends in the baking industry
+   - Exploring how tech, AI, and ML could be integrated into baking practices
+   - Discussing strategies for professional growth in the baking industry
+
+[1;36m5[0m. Overall match recommendation: Yes
+   Despite the difference in personal interests, the high professional compatibility and mutual value potential make this a good match for professional networking. They can learn a lot from each other
+and potentially collaborate on projects that combine their shared profession with Person A's interest in tech.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional compatibility: [1;36m90[0m/[1;36m100[0m
+   Both individuals are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. However, Person A has an interest in tech and AI/ML, which is not reflected in Person B's profile. This slight difference in professional interests reduces the score slightly.
+
+[1;36m2[0m. Personal interest alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has expressed an interest in tech, while Person B has not listed any personal interests. This lack of shared personal interests reduces the score in this category.
+
+[1;36m3[0m. Mutual value potential: High
+   Despite the difference in personal interests, the mutual value potential is high. Both individuals have the same professional goals of growth, indicating they can support each other in their career
+progression. Person A's interest in tech and AI/ML could also potentially bring innovative ideas to Person B's baking practices, adding value to their professional development.
+
+[1;36m4[0m. Conversation starter topics:
+   - Sharing experiences and challenges in the baking industry
+   - Discussing consumer trends in the baking industry
+   - Exploring how tech, AI, and ML could be integrated into baking practices
+   - Discussing strategies for professional growth in the baking industry
+
+[1;36m5[0m. Overall match recommendation: Yes
+   Despite the difference in personal interests, the high professional compatibility and mutual value potential make this a good match for professional networking. They can learn a lot from each other
+and potentially collaborate on projects that combine their shared profession with Person A's interest in tech.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional compatibility: [1;36m90[0m/[1;36m100[0m
+   Both individuals are in the same role and industry, which indicates a high level of professional compatibility. They can share experiences, challenges, and best practices related to their 
+profession. However, Person A has an interest in tech and AI/ML, which is not reflected in Person B's profile. This slight difference in professional interests reduces the score slightly.
+
+[1;36m2[0m. Personal interest alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has expressed an interest in tech, while Person B has not listed any personal interests. This lack of shared personal interests reduces the score in this category.
+
+[1;36m3[0m. Mutual value potential: High
+   Despite the difference in personal interests, the mutual value potential is high. Both individuals have the same professional goals of growth, indicating they can support each other in their career
+progression. Person A's interest in tech and AI/ML could also potentially bring innovative ideas to Person B's baking practices, adding value to their professional development.
+
+[1;36m4[0m. Conversation starter topics:
+   - Sharing experiences and challenges in the baking industry
+   - Discussing consumer trends in the baking industry
+   - Exploring how tech, AI, and ML could be integrated into baking practices
+   - Discussing strategies for professional growth in the baking industry
+
+[1;36m5[0m. Overall match recommendation: Yes
+   Despite the difference in personal interests, the high professional compatibility and mutual value potential make this a good match for professional networking. They can learn a lot from each other
+and potentially collaborate on projects that combine their shared profession with Person A's interest in tech.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mInterestMatcherAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Analyze compatibility between these two professionals for networking:
+        
+        Person A:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Person B:
+        - Role: baker
+        - Industry: other
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        - Key Topics: [1m[[0m[32m'ai_ml'[0m, [32m'consumer'[0m[1m][0m
+        - Goals: [1m[[0m[32m'professional_growth'[0m[1m][0m
+        
+        Assess:
+        [1;36m1[0m. Professional compatibility [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m2[0m. Personal interest alignment [1m([0m[1;36m0[0m-[1;36m100[0m[1m)[0m
+        [1;36m3[0m. Mutual value potential
+        [1;36m4[0m. Conversation starter topics
+        [1;36m5[0m. Overall match recommendation
+        
+        Provide specific reasoning for the scores.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mInterestMatcherAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mInterestMatcherAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1;36m1[0m. Professional Compatibility: [1;36m90[0m/[1;36m100[0m
+   Both Person A and B are in the same role and industry, which means they have a high degree of professional overlap. They both also share the goal of professional growth. However, Person B seems to 
+have a more tech-focused approach to their work, as indicated by their interest in [32m'ai_ml'[0m, which might not be fully aligned with Person A's professional focus.
+
+[1;36m2[0m. Personal Interest Alignment: [1;36m50[0m/[1;36m100[0m
+   Person A has not listed any personal interests, making it difficult to assess the alignment with Person B's interest in [32m'tech'[0m. However, given that they are both in the same role and industry, it's
+possible they may have some shared interests in their field.
+
+[1;36m3[0m. Mutual Value Potential: High
+   Both individuals are in the same role and industry, and both are interested in professional growth. They can share industry insights, challenges, and strategies for growth. Person B's interest in 
+[32m'tech'[0m and [32m'ai_ml'[0m could also provide value to Person A by introducing them to new technologies that could enhance their baking business.
+
+[1;36m4[0m. Conversation Starter Topics:
+   - Discussing the challenges and rewards of being a baker
+   - Sharing strategies for professional growth in the baking industry
+   - Exploring how technology, specifically AI and ML, could be applied to the baking industry
+
+[1;36m5[0m. Overall Match Recommendation: Yes
+   Despite the lack of shared personal interests, the high professional compatibility and potential for mutual value make this a good match for professional networking. Person B's interest in [32m'tech'[0m 
+and [32m'ai_ml'[0m could potentially open up new avenues for Person A's professional growth. 
+
+Specific Reasoning: The high professional compatibility score is due to their shared role, industry, and professional growth goals. The lower personal interest alignment score is due to Person A's 
+lack of listed interests. The high mutual value potential is based on their shared profession and Person B's potential to introduce Person A to new technologies.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m

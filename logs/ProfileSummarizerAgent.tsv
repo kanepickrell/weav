@@ -1,0 +1,155 @@
+ 	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sions about the smell and taste of fresh bread, given his expressed love for it.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Service - Experti...t, food safety, food service management, and trends in the retail food industry.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Service - Experti...t, food safety, food service management, and trends in the retail food industry.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...be interested in trends in the food industry, particularly in the bakery sector.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.LLM	Entity.LLM	Entity.LLM		None			[CANNOT RESPOND]
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane Pickrel LinkedIn: ...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...sensory aspects of food and baking, given his love for the smell of fresh bread.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	ProfileSummarizerAgent		None			Analyze this user profile for networking purposes: Name: Kane G Pickrel LinkedIn...y topics they'd find engaging Provide structured analysis for matching purposes.
+ 	ProfileSummarizerAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ProfileSummarizerAgent	Entity.AGENT	Entity.USER			None			
+*	ProfileSummarizerAgent	Entity.LLM	Entity.LLM			None			1. Professional Summary: - Role: Baker - Industry: Retail/Food Industry - Expert...andling, and trends in the food and retail industry would likely be of interest.
+.andling, and trends in the food and retail industry would likely be of interest.

@@ -1,0 +1,75 @@
+ 	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.LLM	Entity.LLM	Entity.LLM		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.LLM	Entity.LLM	Entity.LLM		None			[CANNOT RESPOND]
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B offers a unique opportunity ...instorming sessions, sharing of resources, and mutual support in implementation.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B could be a significant step ...uilding a professional relationship that could benefit you both in the long run.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B could be a valuable opportun...each other and working together towards your mutual goal of professional growth.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B could be a valuable opportun...each other and working together towards your mutual goal of professional growth.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B would be a valuable opportun...on - to learn, grow, and make meaningful connections. This could be one of them.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a uniq...r workshops together to continue learning and growing in your respective fields.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B would be a valuable opportun...nowledge and skills could pave the way for a fruitful professional relationship.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B would be a valuable opportun...nowledge and skills could pave the way for a fruitful professional relationship.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a uniq...le opportunity for both of you to learn from each other and grow professionally.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a uniq...le opportunity for both of you to learn from each other and grow professionally.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B would be a valuable opportun...on - to learn, grow, and make meaningful connections. This could be one of them.
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B would be a valuable opportun...on - to learn, grow, and make meaningful connections. This could be one of them.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	ContextBuilderAgent		None			Build compelling introduction context for two professionals: Person A: baker - I...xt steps they could take together Make it feel natural and valuable, not forced.
+ 	ContextBuilderAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	ContextBuilderAgent	Entity.AGENT	Entity.USER			None			
+*	ContextBuilderAgent	Entity.LLM	Entity.LLM			None			1. Value Proposition for Person A: Meeting Person B will provide you with a fres...ofessional growth goals but also contribute to the advancement of your industry.

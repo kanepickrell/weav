@@ -1,0 +1,186 @@
+{
+  "users": {
+    "user_1": {
+      "name": "Kane Pickrel",
+      "title": "yes",
+      "company": "yes",
+      "bio": "yes",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T14:49:51.540294"
+    },
+    "user_2": {
+      "name": "alice che",
+      "title": "developer",
+      "company": "apple",
+      "bio": "Product manager passionate about AI applications in consumer products",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T14:52:00.013423"
+    },
+    "user_3": {
+      "name": "Bob C",
+      "title": "artist",
+      "company": "the art store company",
+      "bio": "Interested in AI art and tech influence\n",
+      "linkedin": null,
+      "interests": [],
+      "intent": "Networking",
+      "created_at": "2025-06-22T14:54:12.481711"
+    }
+  },
+  "introductions": [
+    {
+      "id": "intro_20250622145401",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 36.0,
+      "message_to_a": "Hi! I noticed you're both Both in expo_hall with 37 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in expo_hall with 37 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
+      "timestamp": "2025-06-22T14:54:01.603424",
+      "context": "TechConf 2024",
+      "response": {
+        "action": "dismiss",
+        "timestamp": "2025-06-22T14:55:00.393834"
+      }
+    },
+    {
+      "id": "intro_20250622145613",
+      "user_a": "user_3",
+      "user_b": "user_1",
+      "match_score": 50.0,
+      "message_to_a": "Hi! I noticed you're both Both in networking_lounge with 13 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 13 minutes available. Meet user_3, a artist with relevant experience. Great opportunity to connect!",
+      "timestamp": "2025-06-22T14:56:13.309467",
+      "context": "TechConf 2024",
+      "response": {
+        "action": "accept",
+        "timestamp": "2025-06-22T14:56:29.626625"
+      }
+    },
+    {
+      "id": "intro_20250622145631",
+      "user_a": "user_2",
+      "user_b": "user_3",
+      "match_score": 43.0,
+      "message_to_a": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_3, a artist with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
+      "timestamp": "2025-06-22T14:56:31.310016",
+      "context": "TechConf 2024"
+    }
+  ],
+  "user_contexts": {
+    "user_1": {
+      "profile": {
+        "name": "Kane Pickrel",
+        "title": "yes",
+        "company": "yes",
+        "bio": "yes",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 30.267522928378007,
+        "lng": -97.74288150214429,
+        "zone": "networking_lounge"
+      },
+      "phone_behavior": {
+        "last_app": "twitter",
+        "screen_time_minutes": 5,
+        "app_switches_last_hour": 4,
+        "typing_active": false,
+        "last_action": "browsing_mode"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "AI Panel Discussion",
+        "time_until_next": 37
+      },
+      "interaction_history": {
+        "last_intro": 0,
+        "total_intros_today": 1,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T14:49:51.540294"
+    },
+    "user_2": {
+      "profile": {
+        "name": "alice che",
+        "title": "developer",
+        "company": "apple",
+        "bio": "Product manager passionate about AI applications in consumer products",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 30.26690015865112,
+        "lng": -97.74310587103368,
+        "zone": "expo_hall"
+      },
+      "phone_behavior": {
+        "last_app": "weav",
+        "screen_time_minutes": 10,
+        "app_switches_last_hour": 4,
+        "typing_active": true,
+        "last_action": "browsing_mode"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "AI Panel Discussion",
+        "time_until_next": 16
+      },
+      "interaction_history": {
+        "last_intro": 0,
+        "total_intros_today": 1,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T14:54:01.578425"
+    },
+    "user_3": {
+      "profile": {
+        "name": "Bob C",
+        "title": "artist",
+        "company": "the art store company",
+        "bio": "Interested in AI art and tech influence\n",
+        "linkedin": null,
+        "interests": [],
+        "intent": "Networking"
+      },
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "zone": "unknown"
+      },
+      "phone_behavior": {
+        "last_app": "weav",
+        "screen_time_minutes": 0,
+        "app_switches_last_hour": 0,
+        "typing_active": false,
+        "last_action": "app_opened"
+      },
+      "schedule": {
+        "current_session": "networking_break",
+        "next_session": "unknown",
+        "time_until_next": 30
+      },
+      "interaction_history": {
+        "last_intro": 120,
+        "total_intros_today": 0,
+        "energy_level": "high"
+      },
+      "last_opportunity_check": "2025-06-22T14:54:12.481711"
+    }
+  },
+  "introduction_history": {
+    "user_2:user_1": "2025-06-22T14:54:01.603424",
+    "user_1:user_2": "2025-06-22T14:54:01.603424",
+    "user_3:user_1": "2025-06-22T14:56:13.309467",
+    "user_1:user_3": "2025-06-22T14:56:13.309467",
+    "user_2:user_3": "2025-06-22T14:56:31.310016",
+    "user_3:user_2": "2025-06-22T14:56:31.310016"
+  }
+}

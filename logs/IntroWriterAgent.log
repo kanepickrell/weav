@@ -1,0 +1,1719 @@
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to alex_chen about meeting sam_rivera:
+        
+        alex_chen's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'outdoor'[0m, [32m'tech'[0m, [32m'travel'[0m[1m][0m
+        
+        sam_rivera's Profile:  
+        - Role: Founder
+        - Interests: [1m[[0m[32m'family'[0m[1m][0m
+        
+        Why sam_rivera is valuable to alex_chen: [1m[[0m[32m'Expertise in leadership expertise'[0m, [32m'Leadership and strategic perspective'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m18[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss healthtech applications'[0m, [32m'Discuss ai_ml applications'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why sam_rivera would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi Alex,
+
+Hope you're enjoying your coffee! Sam Rivera, a founder with impressive leadership expertise, is also in the coffee area. Given your interest in tech, his strategic perspective could be invaluable. 
+How about discussing AI/ML applications over a quick chat?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to sam_rivera about meeting alex_chen:
+        
+        sam_rivera's Profile:
+        - Role: Founder
+        - Interests: [1m[[0m[32m'family'[0m[1m][0m
+        
+        alex_chen's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'outdoor'[0m, [32m'tech'[0m, [32m'travel'[0m[1m][0m
+        
+        Why alex_chen is valuable to sam_rivera: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m18[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss healthtech applications'[0m, [32m'Discuss ai_ml applications'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why alex_chen would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi Sam,
+
+Hope this message finds you well. You're both in the coffee area with a bit of time to spare. Meeting Alex, a product manager with a keen interest in tech, could provide valuable insights for your 
+venture. Perhaps you could discuss healthtech or AI applications over a cup of coffee?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share 
+your experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could 
+discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m?[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps 
+you could discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m over a cup of coffee? 
+
+Best, 
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. 
+Perhaps you could discuss AI/ML applications or share experiences from TechConf [1;36m2024[0m? 
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps 
+you could discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m over a cup of coffee? 
+
+Best, 
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. 
+Perhaps you could discuss AI/ML applications or share experiences from TechConf [1;36m2024[0m? 
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. 
+Perhaps you could discuss AI/ML applications or share experiences from TechConf [1;36m2024[0m? 
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello,
+
+I see you both have a moment in the coffee area. As an AI Engineer, you might find user_2's product expertise valuable. How about discussing AI/ML applications or swapping stories from TechConf [1;36m2024[0m 
+over a cup of coffee?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share 
+your experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could 
+discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m?[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps 
+you could discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m over a cup of coffee? 
+
+Best, 
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. 
+Perhaps you could discuss AI/ML applications or share experiences from TechConf [1;36m2024[0m? 
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_3 about meeting user_1:
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_3: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, user_3!
+
+You're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML 
+applications or share experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_3:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_3 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_3 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_3 about meeting user_1:
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_3: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, user_3!
+
+You're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML 
+applications or share experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_3:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_3 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_3 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello User_1,
+
+You're both in the coffee area with a bit of time to spare. How about grabbing a cup with User_3? They're a Software Engineer with a wealth of experience you might find intriguing. Perhaps you could 
+discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m?
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, user_1! 
+
+You're both in the coffee area with a bit of time to spare. How about a quick chat with user_3? As a Software Engineer with a keen interest in tech, they could provide some valuable insights into AI 
+applications. Plus, you both attended TechConf [1;36m2024[0m - a great conversation starter! 
+
+Looking forward to hearing about your chat.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_3 about meeting user_1:
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_3: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, user_3!
+
+You're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML 
+applications or share experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_3:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_3's Profile:
+        - Role: Software Engineer
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_3 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_3 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, user_1! 
+
+You're both in the coffee area with a bit of time to spare. How about a quick chat with user_3? As a Software Engineer with a keen interest in tech, they could provide some valuable insights into AI 
+applications. Plus, you both attended TechConf [1;36m2024[0m - a great conversation starter! 
+
+Looking forward to hearing about your chat.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in product expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share 
+your experiences from TechConf [1;36m2024[0m? 
+
+Enjoy your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: Product Manager
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: AI Engineer
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in engineering expertise'[0m[1m][0m
+        Current situation: Both in coffee_area, [1;36m20[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss ai_ml applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+Just noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could 
+discuss AI/ML applications or share your experiences from TechConf [1;36m2024[0m?[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello,
+
+I noticed you're both in the main hall with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective. You could discuss consumer applications or share 
+experiences from TechConf [1;36m2024[0m. Interested?
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+As a fellow baker in the main hall, I thought you'd enjoy meeting user_1. They have a unique perspective on baking with a tech twist. Why not spend a few of your next [1;36m22[0m minutes discussing consumer 
+applications or swapping TechConf [1;36m2024[0m stories?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello there,
+
+I noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about 
+discussing consumer applications or sharing experiences from TechConf [1;36m2024[0m over a cup of coffee?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello there,
+
+I noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about 
+discussing consumer applications or sharing experiences from TechConf [1;36m2024[0m over a cup of coffee?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello user_2,
+
+I noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about 
+grabbing a coffee and comparing your experiences at TechConf [1;36m2024[0m?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello there,
+
+As a fellow baker in the main hall, I thought you might be interested in meeting user_2. They have a wealth of experience that could be valuable to you. With [1;36m22[0m minutes available, why not discuss 
+consumer applications or share experiences from TechConf [1;36m2024[0m? 
+
+Looking forward to your response.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello there,
+
+I noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about 
+discussing consumer applications or sharing experiences from TechConf [1;36m2024[0m over a cup of coffee?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in main_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello there,
+
+As a fellow baker in the main hall, I thought you might be interested in meeting user_2. They have a wealth of experience that could be valuable to you. With [1;36m22[0m minutes available, why not discuss 
+consumer applications or share experiences from TechConf [1;36m2024[0m? 
+
+Looking forward to your response.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, fellow baker! I noticed you're also in the main 
+hall and we have about [1;36m22[0m minutes to spare. I thought you might be interested in meeting user_2, who has a wealth of experience in our field. Maybe you two could discuss consumer applications or share
+experiences from TechConf [1;36m2024[0m?[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both in the networking lounge with a bit of time to spare. Have you met user_1 yet? They're a fellow baker with a unique tech perspective that could be insightful. How about 
+discussing consumer applications or your experiences at TechConf [1;36m2024[0m? 
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could 
+discuss consumer applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could 
+discuss consumer applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+As a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss 
+consumer applications or share experiences from TechConf [1;36m2024[0m? Let's connect you two.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello user_2,
+
+I noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about 
+grabbing a coffee and comparing your experiences at TechConf [1;36m2024[0m?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both at the expo hall with some time to spare. How about meeting fellow baker, user_1? They have a unique perspective on integrating tech into baking. You could discuss consumer 
+applications or share experiences from TechConf [1;36m2024[0m. Interested?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or 
+sharing your TechConf [1;36m2024[0m experiences? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both at the expo hall with some time to spare. How about meeting fellow baker, user_1? They have a unique perspective on integrating tech into baking. You could discuss consumer 
+applications or share experiences from TechConf [1;36m2024[0m. Interested?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both at the expo hall with a bit of time to spare. How about meeting fellow baker, user_1? They have a unique tech perspective that could be insightful. Maybe discuss consumer 
+applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or 
+sharing your TechConf [1;36m2024[0m experiences? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or 
+sharing your TechConf [1;36m2024[0m experiences? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+As a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss 
+consumer applications or share experiences from TechConf [1;36m2024[0m? Let's connect you two.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello user_2,
+
+I noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about 
+grabbing a coffee and comparing your experiences at TechConf [1;36m2024[0m?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both at the expo hall with a bit of time to spare. How about meeting fellow baker, user_1? They have a unique tech perspective that could be insightful. Maybe discuss consumer 
+applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or 
+sharing your TechConf [1;36m2024[0m experiences? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could 
+discuss consumer applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0mEntity.LLM[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+I noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could 
+discuss consumer applications or share your TechConf [1;36m2024[0m experiences? Let me know if you're interested.
+
+Best,
+IntroWriterAgent[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in networking_lounge, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there, 
+
+As a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications
+or your experiences at TechConf [1;36m2024[0m? 
+
+Looking forward to your chat![1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_1 about meeting user_2:
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        user_2's Profile:  
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        Why user_2 is valuable to user_1: [1m[[0m[32m'Expertise in perspective'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_2 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHi there,
+
+As a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss 
+consumer applications or share experiences from TechConf [1;36m2024[0m? Let's connect you two.[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mIntroWriterAgent[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m
+        Write a natural introduction message to user_2 about meeting user_1:
+        
+        user_2's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[1m][0m
+        
+        user_1's Profile:
+        - Role: baker
+        - Interests: [1m[[0m[32m'tech'[0m[1m][0m
+        
+        Why user_1 is valuable to user_2: [1m[[0m[32m'Expertise in experience'[0m[1m][0m
+        Current situation: Both in expo_hall, [1;36m22[0m minutes available
+        Conversation starters: [1m[[0m[32m'Discuss consumer applications'[0m, [32m'Compare experiences at TechConf 2024'[0m[1m][0m
+        
+        Write a casual but professional message that:
+        [1;36m1[0m. Mentions their location/timing
+        [1;36m2[0m. Highlights why user_1 would be interesting to meet
+        [1;36m3[0m. Suggests a natural next step
+        
+        Keep it under [1;36m50[0m words and make it feel genuine.
+        [1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mIntroWriterAgent[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mIntroWriterAgent[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mgreen[1m][0mHello user_2,
+
+I noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about 
+grabbing a coffee and comparing your experiences at TechConf [1;36m2024[0m?
+
+Best,
+[1m[[0mYour Name[1m][0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m

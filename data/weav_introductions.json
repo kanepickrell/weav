@@ -1,0 +1,337 @@
+{
+  "introductions": [
+    {
+      "opportunity_id": "intro_20250622135106",
+      "user_a": "alex_chen",
+      "user_b": "sam_rivera",
+      "match_score": 24.5,
+      "message_to_a": "Hi Alex,\n\nHope you're enjoying your coffee! Sam Rivera, a founder with impressive leadership expertise, is also in the coffee area. Given your interest in tech, his strategic perspective could be invaluable. How about discussing AI/ML applications over a quick chat?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hi Sam,\n\nHope this message finds you well. You're both in the coffee area with a bit of time to spare. Meeting Alex, a product manager with a keen interest in tech, could provide valuable insights for your venture. Perhaps you could discuss healthtech or AI applications over a cup of coffee?\n\nBest,\n[Your Name]",
+      "context": "HealthTech Austin 2024",
+      "timestamp": "2025-06-22T13:51:58.794165Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140615",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 32.5,
+      "message_to_a": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024?",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:06:57.660889Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140613",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 32.5,
+      "message_to_a": "Hi there, \n\nAs a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024 over a cup of coffee? \n\nBest, \n[Your Name]",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. Perhaps you could discuss AI/ML applications or share experiences from TechConf 2024? \n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:06.598760Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140657",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 32.5,
+      "message_to_a": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. Perhaps you could discuss AI/ML applications or share experiences from TechConf 2024? \n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. Perhaps you could discuss AI/ML applications or share experiences from TechConf 2024? \n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:10.434730Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140708",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 32.5,
+      "message_to_a": "Hi there, \n\nAs a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024 over a cup of coffee? \n\nBest, \n[Your Name]",
+      "message_to_b": "Hello,\n\nI see you both have a moment in the coffee area. As an AI Engineer, you might find user_2's product expertise valuable. How about discussing AI/ML applications or swapping stories from TechConf 2024 over a cup of coffee?\n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:13.388214Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140720",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 32.5,
+      "message_to_a": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024?",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:21.801605Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140721",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 32.5,
+      "message_to_a": "Hi there, \n\nAs a fellow tech enthusiast, I thought you might enjoy meeting our AI Engineer, who's currently in the coffee area. They have a wealth of engineering expertise that could be valuable to you. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024 over a cup of coffee? \n\nBest, \n[Your Name]",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find it interesting to chat with a Product Manager who has a deep understanding of tech products. Perhaps you could discuss AI/ML applications or share experiences from TechConf 2024? \n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:23.253921Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140717",
+      "user_a": "user_3",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there, user_3!\n\nYou're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML applications or share experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hello User_1,\n\nYou're both in the coffee area with a bit of time to spare. How about grabbing a cup with User_3? They're a Software Engineer with a wealth of experience you might find intriguing. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024?\n\nBest,\nIntroWriterAgent",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:53.125226Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140723",
+      "user_a": "user_3",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there, user_3!\n\nYou're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML applications or share experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hi there, user_1! \n\nYou're both in the coffee area with a bit of time to spare. How about a quick chat with user_3? As a Software Engineer with a keen interest in tech, they could provide some valuable insights into AI applications. Plus, you both attended TechConf 2024 - a great conversation starter! \n\nLooking forward to hearing about your chat.",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:54.473819Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140755",
+      "user_a": "user_3",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there, user_3!\n\nYou're both in the coffee area with a bit of time to spare. How about grabbing a cup with user_1? They're an AI Engineer with a unique perspective that could be enlightening. Maybe discuss AI/ML applications or share experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hi there, user_1! \n\nYou're both in the coffee area with a bit of time to spare. How about a quick chat with user_3? As a Software Engineer with a keen interest in tech, they could provide some valuable insights into AI applications. Plus, you both attended TechConf 2024 - a great conversation starter! \n\nLooking forward to hearing about your chat.",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:07:56.616506Z"
+    },
+    {
+      "opportunity_id": "intro_20250622140804",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 32.5,
+      "message_to_a": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. As an AI Engineer, you might find user_2's product expertise valuable. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024? \n\nEnjoy your chat!",
+      "message_to_b": "Hi there,\n\nJust noticed you're both in the coffee area with a bit of time to spare. How about meeting user_1? As an AI Engineer, they could offer some unique insights into your tech interests. Perhaps you could discuss AI/ML applications or share your experiences from TechConf 2024?",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:08:06.344685Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142327",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 57.0,
+      "message_to_a": "Hello,\n\nI noticed you're both in the main hall with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective. You could discuss consumer applications or share experiences from TechConf 2024. Interested?\n\nBest,\nIntroWriterAgent",
+      "message_to_b": "Hello user_2,\n\nI noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about grabbing a coffee and comparing your experiences at TechConf 2024?\n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:04.146625Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142356",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hello there,\n\nI noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about discussing consumer applications or sharing experiences from TechConf 2024 over a cup of coffee?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:04.552894Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142325",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nAs a fellow baker in the main hall, I thought you'd enjoy meeting user_1. They have a unique perspective on baking with a tech twist. Why not spend a few of your next 22 minutes discussing consumer applications or swapping TechConf 2024 stories?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hello there,\n\nAs a fellow baker in the main hall, I thought you might be interested in meeting user_2. They have a wealth of experience that could be valuable to you. With 22 minutes available, why not discuss consumer applications or share experiences from TechConf 2024? \n\nLooking forward to your response.",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:05.072832Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142325",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hello there,\n\nI noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about discussing consumer applications or sharing experiences from TechConf 2024 over a cup of coffee?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hello there,\n\nAs a fellow baker in the main hall, I thought you might be interested in meeting user_2. They have a wealth of experience that could be valuable to you. With 22 minutes available, why not discuss consumer applications or share experiences from TechConf 2024? \n\nLooking forward to your response.",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:07.729464Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142340",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hello there,\n\nI noticed that you and user_1 are both talented bakers currently in the main hall. User_1 has a unique perspective on integrating tech into baking, which could be insightful for you. How about discussing consumer applications or sharing experiences from TechConf 2024 over a cup of coffee?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there, fellow baker! I noticed you're also in the main hall and we have about 22 minutes to spare. I thought you might be interested in meeting user_2, who has a wealth of experience in our field. Maybe you two could discuss consumer applications or share experiences from TechConf 2024?",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:07.818805Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142356",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both in the networking lounge with a bit of time to spare. Have you met user_1 yet? They're a fellow baker with a unique tech perspective that could be insightful. How about discussing consumer applications or your experiences at TechConf 2024? \n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:13.494166Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142411",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could discuss consumer applications or share your TechConf 2024 experiences? Let me know if you're interested.\n\nBest,\nIntroWriterAgent",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:15.386076Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142404",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could discuss consumer applications or share your TechConf 2024 experiences? Let me know if you're interested.\n\nBest,\nIntroWriterAgent",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:17.373153Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142427",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nAs a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss consumer applications or share experiences from TechConf 2024? Let's connect you two.",
+      "message_to_b": "Hello user_2,\n\nI noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about grabbing a coffee and comparing your experiences at TechConf 2024?\n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:32.613670Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142426",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both at the expo hall with some time to spare. How about meeting fellow baker, user_1? They have a unique perspective on integrating tech into baking. You could discuss consumer applications or share experiences from TechConf 2024. Interested?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there,\n\nI noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or sharing your TechConf 2024 experiences? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:41.927970Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142432",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both at the expo hall with some time to spare. How about meeting fellow baker, user_1? They have a unique perspective on integrating tech into baking. You could discuss consumer applications or share experiences from TechConf 2024. Interested?\n\nBest,\n[Your Name]",
+      "message_to_b": "Hi there,\n\nI noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or sharing your TechConf 2024 experiences? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:42.404215Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142426",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Write a natural introduction message to user_1 about meeting user_2:\n        \n        user_1's Profile:\n        - Role: baker\n        - Interests: ['tech']\n        \n        user_2's Profile:\n        - Role: baker\n        - Interests: []\n        \n        Why user_2 is valuable to user_1: ['Expertise in experience']\n        Current situation: Both in expo_hall, 22 minutes available\n        Conversation starters: ['Discuss consumer applications', 'Compare experiences at TechConf 2024']\n        \n        Write a casual but professional message that:\n        1. Mentions their location/timing\n        2. Highlights why user_2 would be interesting to meet\n        3. Suggests a natural next step\n        \n        Keep it under 50 words and make it feel genuine.",
+      "message_to_b": "Hi there,\n\nI noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or sharing your TechConf 2024 experiences? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:42.433557Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142452",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nAs a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss consumer applications or share experiences from TechConf 2024? Let's connect you two.",
+      "message_to_b": "Hello user_2,\n\nI noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about grabbing a coffee and comparing your experiences at TechConf 2024?\n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:53.999176Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142454",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both at the expo hall with a bit of time to spare. How about meeting fellow baker, user_1? They have a unique tech perspective that could be insightful. Maybe discuss consumer applications or share your TechConf 2024 experiences? Let me know if you're interested.\n\nBest,\nIntroWriterAgent",
+      "message_to_b": "Hi there,\n\nI noticed you're both talented bakers in the same expo hall with some time to spare. User_2 has a wealth of experience that could be valuable to you. How about discussing consumer applications or sharing your TechConf 2024 experiences? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:55.452896Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142456",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nI noticed you're both in the networking lounge with some time to spare. How about meeting user_1? They're a fellow baker with a unique tech perspective that could be enlightening. Perhaps you could discuss consumer applications or share your TechConf 2024 experiences? Let me know if you're interested.\n\nBest,\nIntroWriterAgent",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:59.257085Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142456",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 57.0,
+      "message_to_a": "Write a natural introduction message to user_1 about meeting user_2:\n        \n        user_1's Profile:\n        - Role: baker\n        - Interests: ['tech']\n        \n        user_2's Profile:\n        - Role: baker\n        - Interests: []\n        \n        Why user_2 is valuable to user_1: ['Expertise in experience']\n        Current situation: Both in networking_lounge, 22 minutes available\n        Conversation starters: ['Discuss consumer applications', 'Compare experiences at TechConf 2024']\n        \n        Write a casual but professional message that:\n        1. Mentions their location/timing\n        2. Highlights why user_2 would be interesting to meet\n        3. Suggests a natural next step\n        \n        Keep it under 50 words and make it feel genuine.",
+      "message_to_b": "Hi there, \n\nAs a fellow baker in the networking lounge, I thought you'd appreciate meeting user_2. They have a wealth of experience that could be valuable to you. Why not start by discussing consumer applications or your experiences at TechConf 2024? \n\nLooking forward to your chat!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:24:59.283507Z"
+    },
+    {
+      "opportunity_id": "intro_20250622142505",
+      "user_a": "user_1",
+      "user_b": "user_2",
+      "match_score": 57.0,
+      "message_to_a": "Hi there,\n\nAs a fellow baker currently in the expo hall, I thought you might be interested in meeting user_2. They have a unique perspective on our craft that could be enlightening. Perhaps you could discuss consumer applications or share experiences from TechConf 2024? Let's connect you two.",
+      "message_to_b": "Hello user_2,\n\nI noticed you're both at the expo hall with some time to spare. As fellow bakers, user_1's expertise and interest in tech could spark some interesting discussions on consumer applications. How about grabbing a coffee and comparing your experiences at TechConf 2024?\n\nBest,\n[Your Name]",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:25:07.137208Z"
+    },
+    {
+      "opportunity_id": "intro_20250622145401",
+      "user_a": "user_2",
+      "user_b": "user_1",
+      "match_score": 36.0,
+      "message_to_a": "Hi! I noticed you're both Both in expo_hall with 37 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in expo_hall with 37 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:54:01.590425Z"
+    },
+    {
+      "opportunity_id": "intro_20250622145613",
+      "user_a": "user_3",
+      "user_b": "user_1",
+      "match_score": 50.0,
+      "message_to_a": "Hi! I noticed you're both Both in networking_lounge with 13 minutes available. Meet user_1, a yes with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 13 minutes available. Meet user_3, a artist with relevant experience. Great opportunity to connect!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:56:13.296243Z"
+    },
+    {
+      "opportunity_id": "intro_20250622145631",
+      "user_a": "user_2",
+      "user_b": "user_3",
+      "match_score": 43.0,
+      "message_to_a": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_3, a artist with complementary expertise. Perfect for a quick networking chat!",
+      "message_to_b": "Hi! I noticed you're both Both in networking_lounge with 10 minutes available. Meet user_2, a developer with relevant experience. Great opportunity to connect!",
+      "context": "TechConf 2024",
+      "timestamp": "2025-06-22T14:56:31.289013Z"
+    }
+  ],
+  "users": {
+    "alex_chen": {
+      "total_introductions": 1,
+      "successful_meetings": 0
+    },
+    "sam_rivera": {
+      "total_introductions": 1,
+      "successful_meetings": 0
+    },
+    "user_1": {
+      "total_introductions": 29,
+      "successful_meetings": 0
+    },
+    "user_2": {
+      "total_introductions": 26,
+      "successful_meetings": 0
+    },
+    "user_3": {
+      "total_introductions": 5,
+      "successful_meetings": 0
+    }
+  },
+  "analytics": {}
+}
